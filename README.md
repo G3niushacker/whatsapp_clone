@@ -1,12 +1,12 @@
-# whatsapp_clone
+# whatsapp Facebook clone Flutter App Android & Ios
 
-A new Flutter project.
+I've Made App that combine Whatsapp and Facebook Mixup. The Design I've Made crazy.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I Use Flutter With Dart Programming Language to Create this app.
 
-A few resources to get you started if this is your first Flutter project:
+I Have use Google Firebase for backend in this app Its great service and realtime database quickly update:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
